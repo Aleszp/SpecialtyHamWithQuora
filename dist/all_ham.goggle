@@ -1,5 +1,5 @@
 ! name: All Ham aka. No Spam
-! description: Remove Pinterest, Copycats, and other spam sites
+! description: Remove Quora, Pinterest, Copycats, and other spam sites
 ! public: true
 ! author: Caleb
 ! avatar: #cca1eb
@@ -230,3 +230,6 @@ $discard,site=wenyanet.com
 
 ! w3schools copycats
 $discard,site=w3resource.com
+
+! Quora
+$discard,site=quora.com
